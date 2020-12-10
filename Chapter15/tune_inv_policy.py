@@ -24,6 +24,5 @@ tune.run(
         "vf_clip_param": tune.choice([1, 5, 10]),
         "grad_clip": tune.choice([None, 0.01, 0.1, 1]),
         "kl_target": tune.choice([0.005, 0.01, 0.05]),
-        "eager": False,
     },
 )
