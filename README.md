@@ -27,10 +27,8 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
-}
+ug = UserGenerator()
+visualize_bandits(ug)
 ```
 
 **Following is what you need for this book:**
@@ -71,10 +69,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Enes Bilgin**
 works as a senior AI engineer and a tech lead in Microsoft's Autonomous Systems division. He is a machine learning and operations research practitioner and researcher with experience in building production systems and models for top tech companies using Python, TensorFlow, and Ray/RLlib. He holds an M.S. and a Ph.D. in systems engineering from Boston University and a B.S. in industrial engineering from Bilkent University. In the past, he has worked as a research scientist at Amazon and as an operations research scientist at AMD. He also held adjunct faculty positions at the McCombs School of Business at the University of Texas at Austin and at the Ingram School of Engineering at Texas State University.
-
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
